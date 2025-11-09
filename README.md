@@ -74,5 +74,3 @@ The application features four main sections:
 2. **Analytics Dashboard**: Data visualizations showing station distribution, pricing trends, and usage patterns
 3. **AI Assistant**: Conversational chatbot for EV charging questions
 4. **About**: Project information and technical details
-
----
