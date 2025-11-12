@@ -1,5 +1,5 @@
 def main():
-    print("Hello from repl-nix-workspace!")
+    print("EV Charging Station Locator with Smart Route Optimization Project !")
 
 
 if __name__ == "__main__":
