@@ -1,7 +1,7 @@
-[project]
-name = "repl-nix-workspace"
+[EV Charging Station Locator with Smart Route Optimization Project ]
+name ="EV Charging Station Locator with Smart Route Optimization Project "
 version = "0.1.0"
-description = "Add your description here"
+description = "A customized way finding your own quick route to charging-stations "
 requires-python = ">=3.11"
 dependencies = [
     "branca>=0.8.2",
